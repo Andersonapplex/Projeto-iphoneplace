@@ -1,0 +1,28 @@
+h1{
+  margin: auto;
+  color: black;
+  border: 3px solid rgb(131, 20, 134);
+  padding: 50px;
+  text-align: center;
+  border-radius:  5px 5px 5px 5px;
+}
+
+body{
+  color: aqua;
+    margin: auto;
+    padding: 50px;
+    text-align: center;
+    border-radius:  5px 5px 5px 5px;
+
+} header ul{
+
+    display: flex;
+    
+  }
+ 
+  header ul li {
+    padding: 10px;
+  }
+ 
+  header ul li a {
+    transition: 300ms;}
